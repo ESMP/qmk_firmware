@@ -1,5 +1,4 @@
 #include QMK_KEYBOARD_H
-#include "keymap_spanish_latin_america.h"
 
 /* THIS FILE WAS GENERATED!
  *
